@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MJ</h1>
-<h3 align="center">I am open to collaboration and commissions. Feel free to reach out for project discussions, opportunities, or ideas. 😊</h3>
+<h3 align="center">I am open to collaboration and commissions, feel free to reach out for project discussions,<br> opportunities, or ideas. 😊</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hoaxnt&label=Profile%20views&color=0e75b6&style=flat" alt="hoaxnt" />
@@ -16,7 +16,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,dart,flutter,godot,html,pycharm,sublime,unity,vercel,java,js,ts,react,nodejs,nextjs,postgres,kotlin,git,linux,vscode,python&perline=7" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cs,cpp,css,dart,flutter,godot,html,pycharm,sublime,unity,vercel,java,js,ts,react,nodejs,nextjs,postgres,kotlin,git,linux,vscode,python&perline=7" />
 </p>
 
 ---
