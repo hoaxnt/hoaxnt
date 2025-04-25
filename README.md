@@ -16,7 +16,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,postgres,kotlin,java,c,git,linux,vscode,python&perline=7" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,c,cpp,css,dart,flutter,godot,html,pycharm,sublime,unity,vercel,java,js,ts,react,nodejs,nextjs,postgres,kotlin,git,linux,vscode,python&perline=7" />
 </p>
 
 ---
