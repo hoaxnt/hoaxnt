@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **'mjr.dev@gmail.com'**
 
-- ⚡ Fun fact: **I always automate repetitive tasks using code :}**
+- ⚡ Fun fact: **I automate repetitive tasks using code :|**
 
 ---
 
