@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a story game using godot engine**
 
-- 📫 How to reach me: **'mjr.dev@gmail.com'**
+- 📫 How to reach me: **'msjr.dev@gmail.com'**
 
 - ⚡ Fun fact: **I automate repetitive tasks using code :|**
 
@@ -39,9 +39,9 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
-  <a href="mjr.dev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://twitter.com/#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
+  <a href="mjsr.dev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
 </p>
 
 ---
