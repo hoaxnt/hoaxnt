@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a story game using godot engine**
 
-- 📫 How to reach me: **'msjr.dev@gmail.com'**
+- 📫 How to reach me: **'mjsr.dev@gmail.com'**
 
 - ⚡ Fun fact: **I automate repetitive tasks using code :|**
 
