@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MJ</h1>
-<h3 align="center">I'm open to collaboration and commissions, feel free to reach out for project discussions,<br> opportunities, or ideas. 😊</h3>
+<h2 align="center">Hey, I'm MJ 💻</h2>
+<h4 align="center">I'm open to collaboration and commissions, feel free to reach out for project discussions,<br> opportunities, or ideas. 😊</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hoaxnt&label=Profile%20views&color=0e75b6&style=flat" alt="hoaxnt" />
