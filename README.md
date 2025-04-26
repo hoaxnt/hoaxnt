@@ -23,16 +23,17 @@
 
 ### ⚡GitHub Stats
 
-<div align="center" style="background-color:#0f0f0f; padding: 20px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoaxnt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff79c6&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoaxnt&theme=tokyonight&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=58a6ff" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoaxnt&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hoaxnt&theme=radical&hide_border=true&border_radius=15" width="48%" />
+</p>
 
-<br>
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaxnt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" width="50%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaxnt&layout=compact&theme=radical&hide_border=true&border_radius=15" width="40%" />
+</p>
+
 
 ---
 
