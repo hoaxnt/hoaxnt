@@ -24,16 +24,16 @@
 ### ⚡GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoaxnt&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hoaxnt&theme=radical&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoaxnt&show_icons=true&hide_border=true&border_radius=15&bg_color=000000&title_color=A76CFD&text_color=E0C4F6&icon_color=B57FFF&number_color=FFFFFF" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hoaxnt&hide_border=true&border_radius=15&background=000000&ring=A76CFD&fire=B57FFF&currStreakLabel=A76CFD&sideLabels=B57FFF&dates=E0C4F6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaxnt&layout=compact&theme=radical&hide_border=true&border_radius=15" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaxnt&layout=compact&hide_border=true&border_radius=15&bg_color=000000&title_color=A76CFD&text_color=E0C4F6&number_color=FFFFFF" width="40%" />
 </p>
-
 
 ---
 
