@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm MJ 💻</h2>
+<h2 align="center">Hi, I'm MJ 💻</h2>
 <h4 align="center">I'm open to collaboration and commissions, feel free to reach out for project discussions,<br> opportunities, or ideas. 😊</h4>
 
 <p align="center">
