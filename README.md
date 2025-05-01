@@ -9,8 +9,6 @@
 
 - 📫 How to reach me: **'mjsr.dev@gmail.com'**
 
-- ⚡ Fun fact: **I automate repetitive tasks using code :|**
-
 ---
 
 ### 🛠️ Languages and Tools:
