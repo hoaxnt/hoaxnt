@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=hoaxnt&label=Profile%20views&color=0e75b6&style=flat" alt="hoaxnt" />
 </p>
 
-- 🔭 I’m currently working on **a story game using godot engine**
-
 - 📫 How to reach me: **'mjsr.dev@gmail.com'**
 
 ---
